@@ -1,5 +1,6 @@
 const express = require("express");
 const cors = require("cors");
+const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const app = express();
 const port = process.env.PORT || 5000;
 require("dotenv").config();
@@ -7,7 +8,6 @@ require("dotenv").config();
 app.use(cors());
 app.use(express.json());
 
-const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const { query } = require("express");
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.dxuh34q.mongodb.net/?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, {
@@ -27,6 +27,10 @@ async function run() {
       const query = {};
       const products = await productCollection.find(query).toArray();
       res.send(products);
+    });
+
+    app.get("/products2", async (req, res) => {
+      res.send("ifty");
     });
 
     // get one product
