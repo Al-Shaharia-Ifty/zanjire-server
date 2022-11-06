@@ -1,0 +1,245 @@
+[
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/3-in-1-15W-fast-wireless-charger-stand-1-600x600.jpeg",
+    "name": "3 in 1 15W fast wireless charger stand",
+    "category": "Mobile-Accessories",
+    "price": "4000",
+    "sellPrice": "3000",
+    "productType": "Charger",
+    "productBrand": "Apple",
+    "productPower": "Max Output Power 15W",
+    "color": "White",
+    "delivery": "80",
+    "speciality": "With LED Light",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/4-ports-USB-Car-Quick-Charger-1-600x600.jpeg",
+    "name": "4-ports USB Car Quick Charger",
+    "category": "Mobile-Accessories",
+    "price": "1600",
+    "sellPrice": "1350",
+    "productType": "Car Charger",
+    "productBrand": "Qualcomm Quick Charge 3.0",
+    "productPower": "Max Output Power 30W",
+    "color": "Black",
+    "delivery": "80",
+
+    "speciality": "4 A Ports",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Bange-Fashion-Waterproof-Laptop-Bag-BG-7080-4.jpeg",
+    "name": "Bange Fashion Waterproof Laptop Bag BG-7080",
+    "category": "Bags-and-Travel",
+    "price": "6500",
+    "sellPrice": "5000",
+    "productType": "Bag",
+    "productBrand": "Apple",
+    "speciality": "Soft and comfortable high-quality handle.",
+    "color": "Black",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/BANGE-Mens-Chest-Pack-Casual-Crossbody-Bag-BG-7079-14-600x600.png",
+    "name": "BANGE Men's Chest Pack Casual Crossbody Bag BG-7079",
+    "category": "Bags-and-Travel",
+    "price": "4000",
+    "sellPrice": "3500",
+    "productType": "Bag",
+    "productBrand": "Bange",
+    "speciality": "Soft and comfortable high-quality handle.",
+    "color": "Grey",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/09/Bange-Multifunction-Waterproof-Backpack-BG-7081-1-600x600.jpeg",
+    "name": "Bange Multifunction Waterproof Backpack BG-7081",
+    "category": "Bags-and-Travel",
+    "price": "5000",
+    "sellPrice": "4500",
+    "productType": "Bag",
+    "productBrand": "Bange",
+    "speciality": "Soft and comfortable high-quality handle.",
+    "color": "Grey",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Bl09-Bone-Conduction-Headphone-1-600x600.jpg",
+    "name": "BL09 Wireless Bone Conduction Headphone",
+    "category": "Headphones-&-Headsets",
+    "price": "2500",
+    "sellPrice": "2000",
+    "productType": "Earphone",
+    "productBrand": "No Brand",
+    "speciality": "V5.0 ব্লুটুথ টেকনোলজি। ব্লুটুথ কানেকশন কাভারেজ ১০ মিটার। ২০ ঘণ্টা কল টাইম। ২৫ ঘণ্টা মিউজিক টাইম। পানি ভিজলে নষ্ট হবে না।",
+    "color": "Black",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Digital-Learning-Pen-2-600x600.jpg",
+    "name": "Digital Learning Pen (Kids Learning Pen)",
+    "category": "Toys-&-Learning",
+    "price": "3800",
+    "sellPrice": "3250",
+    "productType": "Learning",
+    "productBrand": "Digital Publication",
+    "speciality": "প্লে , নার্সারি , কে জি, ওয়ান, টু এর ২ থেকে ১০ বছরের বাচ্চাদের জন্য সম্পূর্ণ কোর্স ১৫টি ডিজিটাল বইয়ের আপডেট ভার্সন।",
+    "color": "No Color",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Double-Zipper-Luxury-Wallet-5.jpeg",
+    "name": "Double Zipper Luxury Wallet",
+    "category": "Bags-and-Travel",
+    "price": "3000",
+    "sellPrice": "2500",
+    "productType": "Bag",
+    "productBrand": "YUESKANGAROO",
+    "speciality": "ITEM LENGTH: 21CM, ITEM HEIGHT: 12CM, ITEM WIDTH: 4CM, ITEM WEIGHT: 0.4KG",
+    "color": "Black",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Flowers-of-Story-Mens-Perfume-1-600x600.jpeg",
+    "name": "Flowers of Story Men's Perfume",
+    "category": "Health-&-Beauty",
+    "price": "2200",
+    "sellPrice": "1799",
+    "productType": "Perfume",
+    "productBrand": "Flower of Story",
+    "speciality": "Long Lasting Perfume.",
+    "color": "",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Universal-Mobile-Phone-Stand-Holder.png",
+    "name": "Universal Mobile Phone Stand Holder",
+    "category": "Mobile-Accessories",
+    "price": "590",
+    "sellPrice": "480",
+    "productType": "Mobile Stand",
+    "productBrand": "Universal",
+    "speciality": "Multi-angle adjustment sell phone stand holder",
+    "color": "Black and Silver",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/471-copy-600x600.png",
+    "name": "Mixed Flower (মিশ্র ফুলের মধু) Honey -1kg",
+    "category": "Groceries",
+    "price": "1000",
+    "sellPrice": "8000",
+    "productType": "Honey",
+    "productBrand": "Zanjira",
+    "speciality": " Natural and Organic",
+    "color": "",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  },
+  {
+    "img": "https://zanjira.com/wp-content/uploads/2022/10/Ghee-450gm-600x600.png",
+    "name": "Pure Ghee 450 gm",
+    "category": "Groceries",
+    "price": "800",
+    "sellPrice": "750",
+    "productType": "Pure Ghee",
+    "productBrand": "Zanjira",
+    "speciality": "Natural and Organic.",
+    "color": "",
+    "delivery": "80",
+    "review": [
+      {
+        "_id": 1,
+        "personName": "",
+        "comment": "",
+        "star": ""
+      }
+    ]
+  }
+]
